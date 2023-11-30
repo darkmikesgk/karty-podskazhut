@@ -1,5 +1,1 @@
-# Зависимости
-
-```bash
-npm i
-```
+Trying to start autotests
